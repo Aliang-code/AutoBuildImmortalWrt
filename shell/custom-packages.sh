@@ -44,5 +44,5 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-netspeedtest luci-i18n-netspeedtest-z
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-gecoosac gecoosac"
 
 
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-firewall-zh-cn luci-i18n-ddns-go-zh-cn luci-app-fileassistant luci-app-keepalived luci-i18n-smartdns-zh-cn luci-app-mosdns luci-i18n-upnp-zh-cn luci-i18n-watchcat-zh-cn luci-i18n-wol-zh-cn luci-proto-wireguard"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-firewall-zh-cn luci-i18n-ddns-go-zh-cn luci-i18n-filemanager-zh-cn luci-app-keepalived luci-i18n-smartdns-zh-cn luci-app-mosdns luci-i18n-upnp-zh-cn luci-i18n-watchcat-zh-cn luci-i18n-wol-zh-cn luci-proto-wireguard"
 
